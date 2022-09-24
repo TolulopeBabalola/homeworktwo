@@ -1,0 +1,36 @@
+.myheading{
+    color: blueviolet;
+    background-color: white;
+    padding: 20px 0px;
+    text-align: center;
+}
+body{
+    background-color: gold;
+}
+
+.card-text h5{
+    font-size: 17px;
+
+}
+.card-text{
+    display: flex;
+}
+.newrow{
+    margin-top:20px !important
+}
+.btn{
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    color: white;
+    margin: 12px 0px;
+    width: 120px;
+}
+.btn:hover{
+    border: 1px solid blueviolet !important;
+    background-color: blueviolet !important;
+    color: white !important;
+}
+
+.row{
+    margin-top: 60px;
+}
